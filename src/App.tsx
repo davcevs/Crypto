@@ -11,7 +11,7 @@ import Register from "./Components/Register";
 import { signIn } from "./Logic/RegisterLogic";
 import WalletComponent from "./Components/WalletComponent";
 import Markets from "./Components/Markets";
-import Casino from "./Components/Casino"; // Import the Casino component
+import Casino from "./Components/Casino";
 import { User } from "./Types/types";
 import BuyCrypto from "./Components/BuyCrypto";
 
